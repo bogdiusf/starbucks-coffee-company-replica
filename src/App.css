@@ -1,0 +1,11 @@
+@import url(//db.onlinewebfonts.com/c/d7e8a95865396cddca89b00080d2cba6?family=SoDo+Sans+SemiBold);
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "SoDoSans,Helvetica Neue,Helvetica,Arial", sans-serif;
+  color: rgba(0, 0, 0, 0.87);
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+}
